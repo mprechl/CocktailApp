@@ -8,3 +8,5 @@ Local storage was not implemented, so the lists are lost on app closure.
 <img src="https://user-images.githubusercontent.com/31511951/168667729-75036819-8134-497e-9dba-ff101c461216.jpg" alt="screenshot" width="200"/>
 <img src="https://user-images.githubusercontent.com/31511951/168667731-37e41af6-afa4-4ade-9a87-435650483197.jpg" alt="screenshot" width="200"/>
 <img src="https://user-images.githubusercontent.com/31511951/168667733-6d950787-cc93-443b-ab55-39543436a1e1.jpg" alt="screenshot" width="200"/>
+
+All image assets are from flaticon.com
